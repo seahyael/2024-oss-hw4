@@ -1,4 +1,4 @@
-# OSS HW Final — 사용자 정보 관리
+# OSS HW4 — 사용자 정보 관리
 
 React와 MockAPI를 활용해 사용자 정보를 관리하는 CRUD 웹 애플리케이션입니다.
 
