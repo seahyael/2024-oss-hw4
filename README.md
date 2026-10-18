@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# OSS HW Final — 사용자 정보 관리
 
-This project realate to react CRUD
+React와 MockAPI를 활용해 사용자 정보를 관리하는 CRUD 웹 애플리케이션입니다.
 
-## How to start this project
- 
-    step 1: git clone https://github.com/bhairabpatra/crud-react-app.git
-    step 2: npm i
-    step 3: json-server --watch db.json // http://localhost:3000
-    step 4:  npm  // http://localhost:3001
+## 주요 기능
+
+- 사용자 정보 등록: 이름, 이메일, 전화번호, 학번, 나이
+- 사용자 목록 및 상세 정보 조회
+- 사용자 정보 수정
+- 사용자 정보 삭제
+
+## 기술 스택
+
+- React
+- React Router
+- Axios
+- Bootstrap
+- MockAPI
